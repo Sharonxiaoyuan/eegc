@@ -1,7 +1,7 @@
 Package: eegc
 Type: Package
 Title: Engineering Evaluation by Gene Categorization  (eegc)
-Version: 1.9.0
+Version: 1.8.1
 Date: 2018-12-21
 Author: Xiaoyuan Zhou, Guofeng Meng, Christine Nardini, Hongkang Mei
 Maintainer: Xiaoyuan Zhou <zhouxiaoyuan@picb.ac.cn>
